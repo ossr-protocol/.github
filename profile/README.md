@@ -5,7 +5,7 @@
 <h1 align="center">Open Stacks Sponsor Relay</h1>
 
 <p align="center">
-  <strong>Open token-based fee abstraction for Stacks</strong><br>
+  <strong>Open tokenized fee abstraction for Stacks</strong><br>
   Use sBTC without first acquiring STX for network fees.
 </p>
 
