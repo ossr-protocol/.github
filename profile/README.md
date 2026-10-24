@@ -30,4 +30,4 @@
 
 Open Stacks Sponsor Relay is an open-source, multi-operator network that lets users execute Stacks transactions without holding STX. Independent relayers pay the network fee in STX and receive reimbursement in a supported token. The first PoC uses sBTC; an opt-in USDCx testnet adapter is also available through the relay API and CLI.
 
-Follow the [OSSR Nostr profile](https://njump.me/npub1qwfn9nmjysrycvn3xzqjvxucvgn9y83enl0p8lc5czv65l6szyrqmx8pkm). Profile credentials and publication instructions are documented in [docs/NOSTR.md](docs/NOSTR.md).
+Follow the [OSSR Nostr profile](https://njump.me/npub1qwfn9nmjysrycvn3xzqjvxucvgn9y83enl0p8lc5czv65l6szyrqmx8pkm). 
